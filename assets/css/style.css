@@ -25,7 +25,13 @@ nav a.active {
   color: white;
 }
 
-img {
-    width: 250px;
-    height: 100px;
+.img {
+    width: 550px;
+    height: 300px;
+}
+.rojo {
+  color: red;
+}
+.azul {
+  color: blue;
 }
